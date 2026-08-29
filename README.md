@@ -1,5 +1,9 @@
 # 🎸 StrumSense
 
+<p align="center">
+  <img src="assets/banner.png" alt="StrumSense Banner" width="100%">
+</p>
+
 > ### Because Great Guitar Playing Isn't Just Heard — It's Seen.
 
 🏆 **Build with Bharat 2.0 | National Hackathon Submission | NIT Delhi**

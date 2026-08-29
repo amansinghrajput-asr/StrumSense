@@ -1,0 +1,3 @@
+"""
+StrumSense - Fusion Engine Package
+"""

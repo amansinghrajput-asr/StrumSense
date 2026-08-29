@@ -1,0 +1,3 @@
+"""
+StrumSense - Vision Engine Package
+"""

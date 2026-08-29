@@ -1,0 +1,3 @@
+"""
+StrumSense - Configuration Package
+"""

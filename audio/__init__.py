@@ -1,0 +1,3 @@
+"""
+StrumSense - Audio Engine Package
+"""
