@@ -79,6 +79,10 @@ Instead of only listening to the guitar,
 # 🏗 System Architecture
 
 ```
+<p align="center">
+  <img src="assets/architecture.png" alt="System Architecture" width="90%">
+</p>
+
 Camera
    │
    ▼
